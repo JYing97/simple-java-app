@@ -5,12 +5,12 @@ package com.mycompany.app;
  */
 public class App {
 
-    private static final String MESSAGE = "I love Jenkins";
+    private static final String MESSAGE = "I am Jenkins";
 
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Hey, Jenkins. Jenkins sad. Jenkins eat. Jenkins full. Jenkins sleepy. Jenkins want go back home. Zzz");
+        System.out.println("Hey, Jenkins.");
     }
 
     public String getMessage() {
